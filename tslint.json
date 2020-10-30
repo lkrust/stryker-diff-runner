@@ -9,7 +9,8 @@
             "dist/**/*",
             "node_modules/**/*",
             "jest.config.js",
-            "stryker.conf.js"
+            "stryker.conf.js",
+            "tests/**/stryker.conf.js"
         ]
     },
     "jsRules": {},
